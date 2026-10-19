@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.png binary
+desk_racer.html whitespace=-blank-at-eol,-space-before-tab

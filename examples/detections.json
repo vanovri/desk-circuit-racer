@@ -1,0 +1,13 @@
+{
+  "source_kind":"synthetic_example",
+  "projection_assumption":"normalized top-down bounding boxes; not a reconstructed perspective photograph",
+  "detections":[
+    {"label":"monitor","box_2d":[80,360,230,640]},
+    {"label":"keyboard","box_2d":[430,370,560,610]},
+    {"label":"mouse","box_2d":[450,660,540,720]},
+    {"label":"mug","box_2d":[260,730,350,810]},
+    {"label":"books","box_2d":[220,140,380,280]},
+    {"label":"lamp","box_2d":[100,780,210,880]},
+    {"label":"controller","box_2d":[630,420,760,590]}
+  ]
+}

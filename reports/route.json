@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "waypoints": 55,
+  "gates": 6,
+  "length_cm": 549.1370849898476,
+  "checks": [
+    "finite geometry",
+    "obstacle and car-envelope boundaries",
+    "every expanded route segment",
+    "complete gate disks",
+    "ordered closed route"
+  ],
+  "scope": "conservative nominal-centimeter arcade geometry, not photo reconstruction or physical vehicle validation",
+  "scene_canonical_sha256": "491df338a33100425726c85c976e2a09b67c973ed6d0a2c06a0085db4b2b0264"
+}

@@ -1,0 +1,17 @@
+{
+  "renderer": "WebGL 3D",
+  "guidedReplay": {
+    "completed": true,
+    "lapText": "67.02 s",
+    "impacts": 0
+  },
+  "keyboardThrottleObservedSpeedCmS": 17.2,
+  "touchThrottleObservedSpeedCmS": 19.2,
+  "narrowViewport": {
+    "viewport": 375,
+    "content": 375
+  },
+  "restart": "Ready to drive, zero timer/speed",
+  "consoleErrors": 0,
+  "scope": "Synthetic scene and arcade model in the tested Brave session"
+}

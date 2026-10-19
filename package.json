@@ -1,0 +1,17 @@
+{
+  "name": "desk-circuit-racer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/engine.test.mjs tests/standalone.test.mjs",
+    "build": "node tools/build.mjs",
+    "serve": "python -m http.server 8768 --bind 127.0.0.1"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
