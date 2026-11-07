@@ -1,6 +1,8 @@
 # Desk circuit racer architecture
 
-Reviewed against the local working tree on 2026-11-07. Source paths below are relative to this repository.
+Crosschecked 2026-11-08 against the current working tree.
+
+Reviewed against the local working tree on 2026-11-08. Source paths below are relative to this repository.
 
 ## System context and data flow
 
