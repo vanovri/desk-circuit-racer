@@ -13,6 +13,7 @@ Six calls materialize and sort the same grid by a different anchor. The selectio
 Proposed change:
 
 ```diff
+diff --git a/desk_spatial_mapper.py b/desk_spatial_mapper.py
 --- a/desk_spatial_mapper.py
 +++ b/desk_spatial_mapper.py
 @@ -39,11 +39,11 @@
@@ -45,6 +46,7 @@ Location: `web/engine.mjs:18-19`.
 Proposed change:
 
 ```diff
+diff --git a/web/engine.mjs b/web/engine.mjs
 --- a/web/engine.mjs
 +++ b/web/engine.mjs
 @@ -15,6 +15,9 @@
